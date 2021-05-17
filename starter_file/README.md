@@ -49,6 +49,7 @@ The [automl](https://github.com/billy-odera/nd00333-capstone/blob/master/starter
 ![AutoML RunDetails](https://github.com/billy-odera/nd00333-capstone/blob/master/starter_file/screenshot/e.jpg)
 
 <p>The voting ensebmble model was the best with an accuracy of 82.9% . </p>
+
 ![Best Model](https://github.com/billy-odera/nd00333-capstone/blob/master/starter_file/screenshot/f.jpg)
 
 ![best model complete](https://github.com/billy-odera/nd00333-capstone/blob/master/starter_file/screenshot/g.jpg)
@@ -84,6 +85,7 @@ For the hyperparameter tuning of this model, we will be tuning four different pa
 
 ## Screen Recording
 <p> Below is the link to the video recording</p>
+
 [![Azure ML Capstone](https://img.youtube.com/vi/m6WDCijyR2Q/0.jpg)](https://www.youtube.com/watch?v=m6WDCijyR2Q "capstone project")
 
 ## Standout Suggestions
