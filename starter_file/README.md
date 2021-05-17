@@ -2,7 +2,7 @@
 This project uses [Kaggle Titanic Prediction Dataset](https://www.kaggle.com/c/titanic/data) in azure workspace to train models using the different tools and deploy the best machine learning model as a web service using python sdk.
 
 ## Project Pipeline
-[Pipeline](https://github.com/billy-odera/nd00333-capstone/blob/master/starter_file/screenshot/pipeline.jpg)
+![Pipeline](https://github.com/billy-odera/nd00333-capstone/blob/master/starter_file/screenshot/pipeline.jpg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. This resulted in the death of 1502 out of 2224 passengers and crew.
 
